@@ -1,9 +1,8 @@
 sap.ui.define(
   ['sap/ui/core/Control'],
-  // eslint-disable-next-line strict
   function (Control) {
 
-    return Control.extend("friscas.dev.control.fullPageItem", {
+    return Control.extend("${PATH/TO/YOUR/CONTROL/}.fullPageItem", {
       metadata: {
         properties: {},
         aggregations : {
