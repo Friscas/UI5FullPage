@@ -8,7 +8,7 @@ sap.ui.define(
         properties: {},
         aggregations : {
           "elements" : {
-            "type":"friscas.dev.control.fullPageItem",
+            "type":"${PATH/TO/YOUR/CONTROL/}.fullPageItem",
             "multiple":true,
             "singularName":"element"
           }
