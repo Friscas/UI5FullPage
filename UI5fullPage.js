@@ -3,7 +3,8 @@ sap.ui.define(
   // eslint-disable-next-line strict
   function (Control) {
 
-    return Control.extend("${PATH/TO/YOUR/CONTROL/}.fullPage", {
+    return Control.extend("${PATH/TO/YOUR/CONTROL/}. 
+UI5fullPage", {
       metadata: {
         properties: {},
         aggregations : {
