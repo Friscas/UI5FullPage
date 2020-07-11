@@ -2,7 +2,7 @@ sap.ui.define(
   ['sap/ui/core/Control'],
   function (Control) {
 
-    return Control.extend("${PATH/TO/YOUR/CONTROL/}.fullPageItem", {
+    return Control.extend("${PATH/TO/YOUR/CONTROL/}.UI5fullPageItem", {
       metadata: {
         properties: {},
         aggregations : {
