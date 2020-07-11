@@ -9,4 +9,4 @@ UI5 FullPage is a custom control that integrate the beautiful fullPage.js librar
 
 # HOW TO USE IT
 
-// Soon i will add the comple read me guide on how and what to do to use this custom control for the OpenUI5 Framework
+// Soon I will add the complete README guide on how and what to do to use this custom control for the OpenUI5 Framework
